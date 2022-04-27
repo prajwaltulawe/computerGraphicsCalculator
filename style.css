@@ -10,14 +10,18 @@ h1{
 }
 table{
     margin: 5% auto;
-    width: 80%;
+    width: 100%;
 }
 td{
     text-align: center;
     margin: 2%;;
     padding: 2%;
 }
+input{
+    width: 100%;
+}
 button{
     width: 100%;
     padding: 2%;
+    margin: 2% auto;
 }
